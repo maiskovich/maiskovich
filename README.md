@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maiskovich&count_private=true&show_icons=true">
-</p>
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maiskovich&count_private=true&show_icons=true">
+</p>-->
